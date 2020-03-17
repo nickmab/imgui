@@ -1,3 +1,7 @@
+# Forked
+
+I have forked this repo and (thus far) just added my own premake file; see licence. 
+
 dear imgui
 =====
 [![Build Status](https://github.com/ocornut/imgui/workflows/build/badge.svg)](https://github.com/ocornut/imgui/actions?workflow=build)
